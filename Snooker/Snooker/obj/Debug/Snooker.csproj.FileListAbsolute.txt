@@ -1,0 +1,7 @@
+C:\Users\bence\source\repos\Snooker\Snooker\bin\Debug\snooker.txt
+C:\Users\bence\source\repos\Snooker\Snooker\bin\Debug\Snooker.exe.config
+C:\Users\bence\source\repos\Snooker\Snooker\bin\Debug\Snooker.exe
+C:\Users\bence\source\repos\Snooker\Snooker\bin\Debug\Snooker.pdb
+C:\Users\bence\source\repos\Snooker\Snooker\obj\Debug\Snooker.csprojAssemblyReference.cache
+C:\Users\bence\source\repos\Snooker\Snooker\obj\Debug\Snooker.exe
+C:\Users\bence\source\repos\Snooker\Snooker\obj\Debug\Snooker.pdb
